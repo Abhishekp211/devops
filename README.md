@@ -1,2 +1,2 @@
 # devops
-Devops demo repo
+Devops demo repository
